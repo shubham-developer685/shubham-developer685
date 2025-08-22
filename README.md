@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+Redux Toolkit
 
 #### 🧪 Data & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
