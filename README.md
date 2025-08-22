@@ -30,11 +30,6 @@
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-!Django
-!ASP.NET
-!Laravel
-!Docker
-!Kafka
 
 
 #### 📊 Data Analytics & BI
