@@ -1,6 +1,6 @@
 <!-- Stylish GitHub Profile README - Full Stack + Data Analyst -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Your Name</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;"> Shubham Pandey</span></h1>
 <h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 🌱 Lifelong Learner</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 🎯 Merging logic & creativity through **code** and **data**  
 💻 Full Stack Web Developer | 🧪 Data Analyst | 📊 Dashboard Designer  
-📍 Based in [Your Location] — working with clients worldwide  
+📍 Based in Mumbai — working with clients worldwide  
 📈 I love solving problems using `Python`, `SQL`, `JavaScript`, `React`, `Power BI`, and more  
 🌟 Currently building: **[Project Name]**  
 🎨 Hobbies: Tech Blogging • Data Art • Minimal UI/UX
