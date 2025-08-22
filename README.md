@@ -30,6 +30,12 @@
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+!Django
+!ASP.NET
+!Laravel
+!Docker
+!Kafka
+
 
 #### 📊 Data Analytics & BI
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,6 +43,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 
 #### 🌐 Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,7 +58,7 @@
 |--------|-------------|------------|
 | 💬 **DevConnect** | MERN stack social platform for developers | `React`, `Node.js`, `MongoDB` |
 | 📊 **Sales Insights Dashboard** | Real-time Power BI dashboard from SQL Server | `Power BI`, `SQL`, `DAX` |
-| ⚙️ **ETL Pipeline Builder** | Automated data pipeline with scheduling & transformation | `Python`, `Airflow`, `Pandas` |
+| ⚙️ **ETL Pipeline Builder** | Automated data pipeline with scheduling & transformation | `Python`, `Numpy`, `Pandas` |
 
 ---
 
