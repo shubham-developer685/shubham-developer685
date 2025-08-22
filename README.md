@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
 <h3 align="center">🚀 Full-Stack Developer & 📊 Data Analyst | Passionate about building apps & unlocking insights from data</h3>
 
 ---
